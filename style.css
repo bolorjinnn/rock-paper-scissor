@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    height: 100vh;
+}
+.game{
+    width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 15px;
+}
+img{
+    border-radius: 50%;
+    width: 30%;
+    margin-right: 15px;
+    cursor: pointer;
+}
